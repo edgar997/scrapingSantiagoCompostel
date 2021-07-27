@@ -1,0 +1,30 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "scraping universidad santiago de compostel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "js",
+    "scraping",
+    "exel",
+    "nodejs",
+    "selenium"
+  ],
+  "author": "edgar parra",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^87.0.0",
+    "exceljs": "^4.2.0",
+    "geckodriver": "^1.21.0",
+    "lodash": "^4.17.20",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.6"
+  }
+}
